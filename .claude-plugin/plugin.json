@@ -1,0 +1,9 @@
+{
+  "name": "raymond-says",
+  "description": "Claude Code plugin channeling Raymond Hettinger's Pythonic philosophy",
+  "version": "1.0.0",
+  "author": {
+    "name": "Mischa Sigtermans"
+  },
+  "repository": "https://github.com/mischasigtermans/raymond-says"
+}
