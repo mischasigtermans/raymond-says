@@ -166,16 +166,22 @@ Raymond's code philosophy centers on:
 
 Every release is benchmarked with **18 parallel Raymond agents** reviewing **6 different Python features** to ensure:
 
-| Metric | Current (v0.1.0) |
+| Metric | Current (v1.0.0) |
 |--------|:----------------:|
-| Consistency | — |
-| Authenticity | —/10 |
-| Technical Depth | —/10 |
-| Teaching Quality | —/10 |
+| Consistency | 100% |
+| Authenticity | 8.8/10 |
+| Technical Depth | 9/10 |
+| Teaching Quality | 9/10 |
+
+Raymond achieved **100% verdict consistency** in v1.0.0 - every instance reviewing the same code reaches the same conclusion.
 
 See [BENCHMARK.md](BENCHMARK.md) for methodology and version history.
 
 > **Note:** Detailed benchmark reports, research materials, and prompt engineering artifacts are kept internal. The published plugin represents our best refinement of Raymond's voice and technical accuracy.
+
+## See Also
+
+**[Taylor Says](https://github.com/mischasigtermans/taylor-says)** - The Laravel companion. Taylor reviews PHP/Laravel code for over-engineering, unnecessary abstractions, and Spring-isms. Same philosophy, different ecosystem.
 
 ## Requirements
 
